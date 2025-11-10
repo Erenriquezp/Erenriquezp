@@ -30,26 +30,23 @@
 
 <div align="left">
 
-#### 🛒 Digital Marketplace Platform
-Building a multi-vendor storefront with composable Next.js modules, Supabase authentication, and Stripe Connect payouts to help creators launch digital products in minutes.
+#### 🛡️ Safe Map Backend — Microservices Architecture
+Backend platform that maps and monitors safe zones across high-risk cities with a Spring Cloud microservices ecosystem, central observability, and JWT-secured APIs for citizens and administrators.
 
-- 🔗 **Repo:** [github.com/Erenriquezp/digital-marketplace](https://github.com/Erenriquezp/digital-marketplace)
-- 🧪 **Live Demo:** [Marketplace preview](https://digital-marketplace-demo.vercel.app)
-- 📝 **Case Study:** [Architecture & product highlights](projects/digital-marketplace.md)
+- 🔗 **Repo:** [github.com/Erenriquezp/safe-map-backend](https://github.com/Erenriquezp/safe-map-backend)
+- 🧩 **Architecture Overview:** [Service catalog & stack](projects/safe-map-backend.md)
 
-#### 🤖 AI Study Companion
-An AI-powered tutor that ingests study plans, curates adaptive quizzes, and shares coaching nudges through a FastAPI backend with OpenAI assistance.
+#### 🔥 Pokédex Web — Reactive Data Explorer
+Full-stack Pokédex experience delivering real-time searches, stat dashboards, and rich sprite galleries through a Spring WebFlux backend and responsive web interface optimized for fast navigation.
 
-- 🔗 **Repo:** [github.com/Erenriquezp/ai-study-companion](https://github.com/Erenriquezp/ai-study-companion)
-- 🧪 **Live Demo:** [Interactive playground](https://ai-study-companion.vercel.app)
-- 📝 **Article:** [Adaptive learning workflow](projects/ai-study-companion.md)
+- 🔗 **Repo:** [github.com/Erenriquezp/pokedex-web](https://github.com/Erenriquezp/pokedex-web)
+- 📘 **Project Notes:** [Features & setup guide](projects/pokedex-web.md)
 
-#### 🎮 Arcade Microgames Collection
-A series of Godot prototypes exploring rapid gameplay iteration, shader experimentation, and controller feel shipped to web and desktop builds.
+#### 🛍️ Marketplace Backend — Freelance Services Platform
+Spring Boot services that power listings, transactions, and reviews for a freelance marketplace, blending relational and document stores with layered security, DTO-driven APIs, and robust business workflows.
 
-- 🔗 **Repo:** [github.com/Erenriquezp/arcade-microgames](https://github.com/Erenriquezp/arcade-microgames)
-- 🕹️ **Playable Build:** [Itch.io showcase](https://erenriquezp.itch.io/arcade-microgames)
-- 📝 **Article:** [Prototype breakdown & learnings](projects/arcade-microgames.md)
+- 🔗 **Repo:** [github.com/Erenriquezp/marketplace-backend](https://github.com/Erenriquezp/marketplace-backend)
+- 🧾 **Documentation:** [Module breakdown](projects/marketplace-backend.md)
 
 </div>
 
