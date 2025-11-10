@@ -26,6 +26,30 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erenriquezp&layout=compact&theme=aura&langs_count=9"/>
 </p>
 
+<h2 align="center"> 🚀 Featured Projects </h2>
+
+<div align="left">
+
+#### 🛡️ Safe Map Backend — Microservices Architecture
+Backend platform that maps and monitors safe zones across high-risk cities with a Spring Cloud microservices ecosystem, central observability, and JWT-secured APIs for citizens and administrators.
+
+- 🔗 **Repo:** [github.com/Erenriquezp/safe-map-backend](https://github.com/Erenriquezp/safe-map-backend)
+- 🧩 **Architecture Overview:** [Service catalog & stack](projects/safe-map-backend.md)
+
+#### 🔥 Pokédex Web — Reactive Data Explorer
+Full-stack Pokédex experience delivering real-time searches, stat dashboards, and rich sprite galleries through a Spring WebFlux backend and responsive web interface optimized for fast navigation.
+
+- 🔗 **Repo:** [github.com/Erenriquezp/pokedex-web](https://github.com/Erenriquezp/pokedex-web)
+- 📘 **Project Notes:** [Features & setup guide](projects/pokedex-web.md)
+
+#### 🛍️ Marketplace Backend — Freelance Services Platform
+Spring Boot services that power listings, transactions, and reviews for a freelance marketplace, blending relational and document stores with layered security, DTO-driven APIs, and robust business workflows.
+
+- 🔗 **Repo:** [github.com/Erenriquezp/marketplace-backend](https://github.com/Erenriquezp/marketplace-backend)
+- 🧾 **Documentation:** [Module breakdown](projects/marketplace-backend.md)
+
+</div>
+
 ---
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
