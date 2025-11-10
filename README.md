@@ -26,6 +26,33 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erenriquezp&layout=compact&theme=aura&langs_count=9"/>
 </p>
 
+<h2 align="center"> 🚀 Featured Projects </h2>
+
+<div align="left">
+
+#### 🛒 Digital Marketplace Platform
+Building a multi-vendor storefront with composable Next.js modules, Supabase authentication, and Stripe Connect payouts to help creators launch digital products in minutes.
+
+- 🔗 **Repo:** [github.com/Erenriquezp/digital-marketplace](https://github.com/Erenriquezp/digital-marketplace)
+- 🧪 **Live Demo:** [Marketplace preview](https://digital-marketplace-demo.vercel.app)
+- 📝 **Case Study:** [Architecture & product highlights](projects/digital-marketplace.md)
+
+#### 🤖 AI Study Companion
+An AI-powered tutor that ingests study plans, curates adaptive quizzes, and shares coaching nudges through a FastAPI backend with OpenAI assistance.
+
+- 🔗 **Repo:** [github.com/Erenriquezp/ai-study-companion](https://github.com/Erenriquezp/ai-study-companion)
+- 🧪 **Live Demo:** [Interactive playground](https://ai-study-companion.vercel.app)
+- 📝 **Article:** [Adaptive learning workflow](projects/ai-study-companion.md)
+
+#### 🎮 Arcade Microgames Collection
+A series of Godot prototypes exploring rapid gameplay iteration, shader experimentation, and controller feel shipped to web and desktop builds.
+
+- 🔗 **Repo:** [github.com/Erenriquezp/arcade-microgames](https://github.com/Erenriquezp/arcade-microgames)
+- 🕹️ **Playable Build:** [Itch.io showcase](https://erenriquezp.itch.io/arcade-microgames)
+- 📝 **Article:** [Prototype breakdown & learnings](projects/arcade-microgames.md)
+
+</div>
+
 ---
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
