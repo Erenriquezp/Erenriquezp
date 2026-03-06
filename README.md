@@ -20,13 +20,6 @@
 
 ---
 
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Erenriquezp&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erenriquezp&layout=compact&theme=aura&langs_count=9"/>
-</p>
-
 <h2 align="center"> 🚀 Featured Projects </h2>
 
 <div align="left">
@@ -84,9 +77,8 @@ Spring Boot services that power listings, transactions, and reviews for a freela
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/edison-enriquez-764bb5349/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-  <a href="https://github.com/Erenriquezp"><img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
   <a href="https://www.instagram.com/edii.enriquez/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-  <a href="https://github.com/Erenriquezp"><img src="https://img.icons8.com/doodle/40/000000/domain.png"></a>
+  <a href="https://erenriquezp-portfolio.vercel.app"><img src="https://img.icons8.com/doodle/40/000000/domain.png"></a>
 </p>
 
 ---
