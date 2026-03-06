@@ -9,6 +9,7 @@
 ---
 
 <p align="center">
+  <a href="https://erenriquezp-portfolio.vercel.app">
   <img src="https://img.shields.io/static/v1?label=Portfolio&message=Visit&color=0A66C2&style=flat&logo=google-chrome&logoColor=white" alt="portfolio"/>
   <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&color=BC4E99&style=flat" alt="Star Badge"/>
 </p>
